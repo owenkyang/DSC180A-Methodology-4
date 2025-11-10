@@ -1,7 +1,10 @@
 
 **Name:** Owen Yang
-**Email:** okyang@ucsd.edu  
-**Section:** B03 
+
+**Email:** okyang@ucsd.edu
+
+**Section:** B03
+
 **Mentor:** Duncan Watson-Parris
 
 **1. What is the most interesting topic covered in your domain this quarter?**  
